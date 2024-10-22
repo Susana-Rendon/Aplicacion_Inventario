@@ -1,0 +1,26 @@
+{
+    "Nevera": {
+        "cantidad": 100,
+        "precio": 2000000.0
+    },
+    "Lavadora": {
+        "cantidad": 20,
+        "precio": 1000000.0
+    },
+    "celular": {
+        "cantidad": 20,
+        "precio": 1000000.0
+    },
+    "Tablet": {
+        "cantidad": 20,
+        "precio": 500000.0
+    },
+    "audifonos": {
+        "cantidad": 120000,
+        "precio": 20.0
+    },
+    "camara": {
+        "cantidad": 50,
+        "precio": 300000.0
+    }
+}
